@@ -5,7 +5,8 @@ import {Link} from 'react-router-dom'
 
 
 const menu = [
- 
+  {name:'Home',
+  to:'/front',},
   {name: 'Blogs',
     to: '/blogs'
    },
