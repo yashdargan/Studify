@@ -1,9 +1,9 @@
 import "./App.css";
-import Login from "./componet/login";
+import { Outlet } from "react-router-dom";
 function App() {
   return (
     <>
-      <Login />
+      <Outlet />
     </>
   );
 }
