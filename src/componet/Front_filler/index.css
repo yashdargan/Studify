@@ -1,0 +1,15 @@
+.Front_container{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  height:50vh;
+  width:100%;
+}
+.middle_container{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  background-color:#0f6781;
+  width:75%;
+    height:50vh;
+}

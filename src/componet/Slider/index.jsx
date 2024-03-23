@@ -26,8 +26,6 @@ const Slider = () => {
     <div className="carousel">
       <img
         src={images[currentIndex]}
-        width={1750}
-        height={700}
         alt="carousel"
       />
     </div>
